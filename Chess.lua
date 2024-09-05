@@ -11,7 +11,7 @@ board[6] = {}
 board[7] = {"♟︎", "♟︎", "♟︎", "♟︎", "♟︎", "♟︎", "♟︎", "♟︎"}
 board[8] = {"♜", "♞", "♝", "♛", "♚", "♝", "♞", "♜"}
 
-
+TESTE GIT
 -- _, -> são as os números [1] .. [2] são as linhas da primeira tabela
 for _, linha in pairs(board) do -- quando não tem uso a variavel por boa pratica ganha nome de _
 
