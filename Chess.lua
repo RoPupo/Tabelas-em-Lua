@@ -9,7 +9,7 @@ board[4] = {}
 board[5] = {}
 board[6] = {}
 board[7] = {"♟︎", "♟︎", "♟︎", "♟︎", "♟︎", "♟︎", "♟︎", "♟︎"}
-board[8] = {"♜", "♞", "♝", "", "♜"}
+board[8] = {"♜", "♞", "♝", "♛", "♚", "♝", "♞", "♜"}
 
 TESTE GIT
 -- _, -> são as os números [1] .. [2] são as linhas da primeira tabela
